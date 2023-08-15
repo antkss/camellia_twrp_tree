@@ -1,0 +1,22 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Redmi
+ro.product.bootimage.device=camellia
+ro.product.bootimage.manufacturer=xiaomi
+ro.product.bootimage.model=M2103K19C
+ro.product.bootimage.name=omni_camellia
+ro.bootimage.build.date=Tue Nov  8 15:27:10 UTC 2022
+ro.bootimage.build.date.utc=1667921230
+ro.bootimage.build.fingerprint=Redmi/omni_camellia/camellia:16.1.0/SP2A.220405.004/runner11081527:eng/test-keys
+ro.bootimage.build.id=SP2A.220405.004
+ro.bootimage.build.tags=test-keys
+ro.bootimage.build.type=eng
+ro.bootimage.build.version.incremental=eng.runner.20221108.153345
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=16.1.0
+ro.bootimage.build.version.sdk=32
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
